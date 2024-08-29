@@ -1,4 +1,4 @@
-# desain Dan Pemrograman Web
+# Desain Dan Pemrograman Web
 Selamat datang di repositori saya! Di sini, Anda akan menemukan berbagai proyek dan catatan terkait dengan Praktikum Desain Dan Pemrograman Web saya di jurusan Teknik Informatika POLINEMA.
 ## Tentang Saya
 - **Nama  :** Chiko Abilla Basya
