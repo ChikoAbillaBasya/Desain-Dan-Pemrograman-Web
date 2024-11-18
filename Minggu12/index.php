@@ -12,6 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 if (isset($_GET['action']) && $_GET['action'] == 'delete') {
     $id = $_GET['id'];
     $crud->delete($id);
+
 }
 
 $tampil = $crud->read();
@@ -29,6 +30,7 @@ $tampil = $crud->read();
 
 <body>
     <div class="container mt-5">
+        <button type="button" class="btn btn-success mb-3" data-toggle="modal" data-target="#tambahModal">Tambah</button>
         <table class="table">
             <thead>
                 <tr>
@@ -51,6 +53,7 @@ $tampil = $crud->read();
                     echo "</td>";
                     echo "</tr>";
                 }
+
                 ?>
             </tbody>
         </table>
