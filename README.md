@@ -2,9 +2,9 @@
 <div align="center">
 	<img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Web Design Icon"/>
   
-	# Desain Dan Pemrograman Web
+# Desain Dan Pemrograman Web
   
-	<sub>Praktikum Semester 3 | Teknik Informatika POLINEMA</sub>
+<sub> Praktikum Semester 3 | Teknik Informatika Politeknik Negeri Malang </sub>
 </div>
 
 ---
@@ -15,7 +15,7 @@ Repositori ini berisi kumpulan proyek, tugas, dan catatan praktikum Desain dan P
 ## 👤 Tentang Saya
 | Nama                | NIM         | Kelas | Prodi                  |
 |---------------------|-------------|-------|------------------------|
-| Chiko Abilla Basya  | 2341720005  | 2-E   | D-IV Teknik Informatika|
+| Chiko Abilla Basya  | 2341720005  | 2-E   | D-4 Teknik Informatika|
 
 ## 📁 Struktur Folder
 - **Minggu01**: Dasar HTML (Form, Tabel, Heading, List, Link, dll)
@@ -30,7 +30,6 @@ Repositori ini berisi kumpulan proyek, tugas, dan catatan praktikum Desain dan P
 - **Minggu12**: PHP - CRUD
 - **Minggu13**: Cara Konek PHP dengan SQLServer
 - **UTS**: Tugas Ujian Tengah Semester
-- ...dan seterusnya
 
 ## 🚀 Cara Menggunakan
 1. Clone repositori ini ke komputer Anda.
